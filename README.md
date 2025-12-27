@@ -1,6 +1,6 @@
 # Ex. No. 2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 29.11.25
+## DATE: 25/12/2025
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -49,7 +49,7 @@
 ![alt text](<Screenshot (23).png>) 
 ![alt text](<Screenshot (24).png>)
 
-### Name: ABHISHEK S
-### Register Number: 25008757
+### Name: IYYAPPAN S
+### Register Number: 25014014
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given slider crank mechanism is simulated.
